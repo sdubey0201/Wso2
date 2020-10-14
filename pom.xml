@@ -1539,7 +1539,7 @@
 
         <!--UI Test Framework Versions-->
         <seleniumhq.selenium.version>3.141.59</seleniumhq.selenium.version>
-        <junit.version>4.11</junit.version>
+        <junit.version>4.13.1</junit.version>
         <yaml.version>1.11</yaml.version>
 
         <!--Performance Testing Versions-->
