@@ -1451,7 +1451,7 @@
         <apache.commons.fileupload.version>1.3.2</apache.commons.fileupload.version>
         <fabricator.wso2v1.version>2.1.4.wso2v1</fabricator.wso2v1.version>
         <generex.wso2v1.version>1.0.0.wso2v1</generex.wso2v1.version>
-        <mysql.connector.version>5.1.38</mysql.connector.version>
+        <mysql.connector.version>8.0.28</mysql.connector.version>
         <kafka.version>0.9.0.0</kafka.version>
         <google.collections.version>1.0</google.collections.version>
         <project.scm.id>scm-server</project.scm.id>
@@ -1531,7 +1531,7 @@
         <json.version>3.0.0.wso2v1</json.version>
         <codehaus.jackson.version>1.9.13</codehaus.jackson.version>
         <org.snakeyaml.version>1.17</org.snakeyaml.version>
-        <mysql.con.version>6.0.5</mysql.con.version>
+        <mysql.con.version>8.0.28</mysql.con.version>
         <googlecode.json-simple.version>1.1.wso2v1</googlecode.json-simple.version>
         <io.netty.version>4.1.19.Final</io.netty.version>
         <log4j.version>1.2.17</log4j.version>
